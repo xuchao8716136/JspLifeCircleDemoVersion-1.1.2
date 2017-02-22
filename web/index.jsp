@@ -11,6 +11,9 @@
     <title>11</title>
   </head>
   <body>
-ss
+  <%
+
+  %>
+  this is the first jsp test for jsp life circle
   </body>
 </html>
